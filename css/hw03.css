@@ -1,0 +1,56 @@
+.rect {
+    width: 0px;
+    height: 0px;
+    background-color: #00ffa9;
+    border-top: 100px solid green;
+    border-bottom: 100px solid blue;
+    border-left: 100px solid yellow;
+    border-right: 100px solid red;
+}
+.BG{
+    width: 660px;
+    height: auto;
+    background: #d06420;
+    border: 4px solid #3b3b3b;
+    border-radius: 50px;
+    text-align: center;
+    font-family: Microsoft JhengHei, Arial,sans-serif;
+    font-size: 2em;
+    padding: 26px;
+    color: white;
+}
+#answer{
+    margin-bottom: 6px;
+}
+.pipe {
+    margin: 100px;
+}
+
+.pipeTop {
+    width: 200px;
+    height: 50px;
+    background-color: #b6ff00;
+    border-top: 5px double green;;
+    border-bottom: 5px dashed green;;
+    border-right: 5px solid green;
+    border-left: 5px solid green;
+}
+
+.tube {
+    width: 150px;
+    height: 200px;
+    background-color: #b6ff00;
+    border-bottom: 5px solid green;
+    border-right: 5px solid green;
+    border-left: 5px solid green;
+    margin-left: 25px;
+}
+.QA{
+    width: 700px;
+    font-family: Microsoft JhengHei, Arial,sans-serif;
+    margin-top: 60px;
+}
+h1{
+    font-size: 1.7em;
+    line-height: 15px;
+}

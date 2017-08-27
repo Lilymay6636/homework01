@@ -1,0 +1,62 @@
+body {
+    background-color: #e6e6e6;
+    background-image: url(images/hw-texture.png);
+    text-align: center;
+}
+
+.content {
+    width: 540px;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.51);
+    border: 3px solid #ffffff;
+    border-radius: 25px;
+    font-family: Microsoft JhengHei, sans-serif, Arial;
+    margin: 40px auto;
+    padding-bottom: 25px;
+}
+
+.item>.layout {
+    display: inline-block;
+    margin: 10px;
+}
+
+img {
+    margin: 0px 10px;
+}
+
+a:link {
+    color: #14a530;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff8000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:active {
+    color: #d10101;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0px;
+    color: #6a3906;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0px auto 15px;
+    color: #6a3906;
+}
+
+.line {
+    width: 400px;
+    height: 0px;
+    border-top: 2px dotted #b2b2b2;
+    margin: 0px auto 15px;
+}

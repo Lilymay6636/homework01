@@ -1,0 +1,65 @@
+table {
+    background-color: #ffffcc;
+    border-spacing: 6px;
+}
+
+.line {
+    border-left: 2px dashed #acacac;
+}
+
+.item {
+    min-width: 80px;
+    height: 41;
+    font-family: Microsoft JhengHei, Arial;
+    text-align: left;
+}
+
+.title {
+    font-family: Microsoft JhengHei, Arial;
+    letter-spacing: 0.3px;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #e60012;
+}
+
+a:hover,
+a:focus,
+a:active {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #e60012;
+}
+
+.ballYellow {
+    width: 41px;
+    height: 41px;
+    background-color: #ffbf11;
+    border-radius: 22px;
+    font-family: Arial;
+    font-weight: bold;
+    color: black;
+    font-size: 1.4em;
+    text-align: center;
+    line-height: 41px;
+}
+
+.ballRed {
+    width: 41px;
+    height: 41px;
+    background-color: #e20010;
+    border-radius: 22px;
+    font-family: Arial;
+    font-weight: bold;
+    color: white;
+    font-size: 1.4em;
+    text-align: center;
+    line-height: 41px;
+}
+
+.ballNo {
+    width: 41px;
+    height: 41px;
+}
